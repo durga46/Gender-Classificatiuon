@@ -75,3 +75,9 @@ int main()
       return 0;
 }
 ```
+## Output:
+![dsss](https://user-images.githubusercontent.com/75235704/204083630-2996a40e-d2df-4b93-9b86-5e0b7bafaedc.jpeg)
+
+## Result:
+Thus, a C program to insert and delete elements into the circular  queue is developed and executed
+successfully.
