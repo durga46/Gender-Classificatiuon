@@ -7,7 +7,7 @@ To write a C program to insert and delete elements in circular queue.
 ## Algorithm:
 
 ## Code:
-```py
+
 #include<stdio.h>
 #include<stdlib.h>
 #define max 10
@@ -74,7 +74,7 @@ int main()
       }
       return 0;
 }
-```
+
 ## Output:
 ![dsss](https://user-images.githubusercontent.com/75235704/204083630-2996a40e-d2df-4b93-9b86-5e0b7bafaedc.jpeg)
 
